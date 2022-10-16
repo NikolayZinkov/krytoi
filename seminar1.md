@@ -34,6 +34,14 @@ number{1 3 6 1 3 5}
 ## Картиночки
 
 
+<<<<<<< HEAD
 ![Шелби](Tomiknight.jpg)
 ![Готов](DoraStvol.jpg)
+=======
+>>>>>>> kartinki
 
+
+
+
+![fraer](fraer.jpg)
+![zoro](zoro.jpg)
