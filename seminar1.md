@@ -30,3 +30,10 @@ number{1 3 6 1 3 5}
 > *привет*
 >> qwerty
 
+
+## Картиночки
+
+
+![Томи](TommyKnight.jpg)
+![Готов](DoraStvol.jpg)
+
