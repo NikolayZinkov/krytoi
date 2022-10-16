@@ -34,6 +34,6 @@ number{1 3 6 1 3 5}
 ## Картиночки
 
 
-![Томи](TommyKnight.jpg)
+![Шелби](Tomiknight.jpg)
 ![Готов](DoraStvol.jpg)
 
