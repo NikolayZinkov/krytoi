@@ -49,3 +49,12 @@ number{1 3 6 1 3 5}
 
 ![fraer](fraer.jpg)
 ![zoro](zoro.jpg)
+
+
+
+
+
+
+Что у нас есть
+
+# Определиться
